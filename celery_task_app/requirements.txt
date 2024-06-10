@@ -1,0 +1,5 @@
+celery[redis]
+tensorflow==2.14.0
+tensorrt
+pillow
+numpy

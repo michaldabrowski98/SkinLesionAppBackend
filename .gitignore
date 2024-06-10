@@ -1,0 +1,4 @@
+.idea
+app/.env
+*.log
+celery_task_app/ml/model_resnet50_v2.keras
