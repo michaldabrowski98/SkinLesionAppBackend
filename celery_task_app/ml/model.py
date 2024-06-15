@@ -1,7 +1,7 @@
 from tensorflow.keras.models import load_model
 import os
 
-MODEL_PATH = "model_resnet50_v2.keras"
+MODEL_PATH = "cnn_model.keras"
 
 class ClassificationModel:
     
